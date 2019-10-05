@@ -2,6 +2,7 @@
 a simple calculator app using HTML, CSS, and JS
 
 untuk mendownload project ini :
+
 Buka terminal dan ketik <code>git clone https://github.com/putralangkat97/simple-calculator.git</code>
 
 or
